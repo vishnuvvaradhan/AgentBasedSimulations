@@ -1,0 +1,5 @@
+SocialAgentSimulation.java:
+- "Usage: java SocialAgentSimulation <numofagents> <radius size>"
+ExtensionSimulation.java:
+- "Usage: java ExtensionSimulation <numofagents> <radius size>"
+
